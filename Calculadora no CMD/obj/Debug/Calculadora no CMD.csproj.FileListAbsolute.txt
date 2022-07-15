@@ -1,0 +1,8 @@
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.exe.config
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.exe
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\bin\Debug\Calculadora no CMD.pdb
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.csproj.AssemblyReference.cache
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.csproj.CoreCompileInputs.cache
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.exe
+C:\Users\Windows.lite\Curso C#\Projetos\Calculadora no CMD\Calculadora no CMD\obj\Debug\Calculadora no CMD.pdb
